@@ -1,0 +1,22 @@
+{
+    "domain": "is-a-fullstack.dev",
+    "subdomain": "fccvntest",
+
+    "owner": {
+        "email": "trinhh795@gmail.com"
+    },
+
+    "records": {
+        "A": "222.252.8.99",
+        
+        "MX": [
+            {
+                "priority": 10,
+                "value": "webmail.fccvntest.is-a-fullstack.dev"
+            }
+        ],
+       
+    },
+
+    "proxied": false
+}
